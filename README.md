@@ -1,1 +1,1 @@
-# laon1729
+# Astronomical Spectroscopic System
